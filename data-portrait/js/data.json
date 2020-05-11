@@ -1,0 +1,148 @@
+{
+  "key": {
+    "How much do you play?": {
+      "x": 0,
+      "y": 0,
+      "Every day": "q1r1.png",
+      "is_text": false
+    },
+    "Do you use terraforming?": {
+      "x": 0,
+      "y": 0,
+      "Yes": "q2r1.png",
+      "No": "q2r2.png",
+      "is_text": false
+    },
+    "Do you time skip?": {
+      "x": 0,
+      "y": 0,
+      "Yes": "q3r1.png",
+      "No": "q3r2.png",
+
+      "is_text": false
+    },
+    "Who's your favorite villager?": {
+      "x": 0,
+      "y": 0,
+      "Raddle": "q6r1.png",
+      "Sprinkle": "q6r2.png",
+      "Boots": "q6r3.png",
+      "Rosie": "q6r4.png",
+      "Pekoe": "q6r5.png",
+      "Caroline": "q6r6.png",
+      "Raymond/Marshal": "q6r7.png",
+      "Cherry": "q6r8.png",
+      "Admiral": "q6r9.png",
+      "Shep": "q6r10.png",
+      "Bill": "q6r11.png",
+      "is_text": false
+    },
+    "What's your favorite fruit on the Island?": {
+      "x": 0,
+      "y": 0,
+      "Cherry": "q4cherry.png",
+      "Orange": "q4orange.png",
+      "Peach": "q4peach.png",
+      "Apple": "q4apple.png",
+      "is_text": false
+    },
+    "What's your favorite thing to collect?": {
+      "x": 0,
+      "y": 0,
+      "Fish": "q5fish.png",
+      "Flowers": "q5flower.png",
+      "Fossils": "q5fossil.png",
+      "Bugs": "q5bugs.png",
+      "is_text": false
+    }
+  },
+  "data": [{
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "Yes",
+      "Who's your favorite villager?": "Raddle",
+      "What's your favorite fruit on the Island?": "Orange",
+      "What's your favorite thing to collect?": "Flowers"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Sprinkle",
+      "What's your favorite fruit on the Island?": "Cherry",
+      "What's your favorite thing to collect?": "Flowers"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Boots",
+      "What's your favorite fruit on the Island?": "Peach",
+      "What's your favorite thing to collect?": "Bugs"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "No",
+      "Do you time skip?": "Yes",
+      "Who's your favorite villager?": "Rosie",
+      "What's your favorite fruit on the Island?": "Cherry",
+      "What's your favorite thing to collect?": "Fossils"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "Yes",
+      "Who's your favorite villager?": "Pekoe",
+      "What's your favorite fruit on the Island?": "Peach",
+      "What's your favorite thing to collect?": "Flowers"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Caroline",
+      "What's your favorite fruit on the Island?": "Apple",
+      "What's your favorite thing to collect?": "Fossils"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Raymond/Marshal",
+      "What's your favorite fruit on the Island?": "Peach",
+      "What's your favorite thing to collect?": "Flowers"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Cherry",
+      "What's your favorite fruit on the Island?": "Orange",
+      "What's your favorite thing to collect?": "Fossils"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "Yes",
+      "Who's your favorite villager?": "Admiral",
+      "What's your favorite fruit on the Island?": "Cherry",
+      "What's your favorite thing to collect?": "Flowers"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "Yes",
+      "Do you time skip?": "Yes",
+      "Who's your favorite villager?": "Shep",
+      "What's your favorite fruit on the Island?": "Peach",
+      "What's your favorite thing to collect?": "Fish"
+    },
+    {
+      "How much do you play?": "Every day",
+      "Do you use terraforming?": "No",
+      "Do you time skip?": "No",
+      "Who's your favorite villager?": "Bill",
+      "What's your favorite fruit on the Island?": "Cherry",
+      "What's your favorite thing to collect?": "Bugs"
+    }
+  ]
+}
